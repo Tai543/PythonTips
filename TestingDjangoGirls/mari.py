@@ -1,0 +1,1 @@
+print('ingrese subcadena')
