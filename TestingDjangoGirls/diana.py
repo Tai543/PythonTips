@@ -1,4 +1,0 @@
-#Prueba de Python 
-'''
-
-'''
