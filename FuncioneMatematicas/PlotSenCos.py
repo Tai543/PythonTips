@@ -22,11 +22,6 @@ y en 'y_cos' evaluamos el vector 'x' con la funcion 'cos'
 '''
 y_sen = np.sin(x)
 y_cos = np.cos(x)
-'''
-@author Tai543
-Graficas de funciones trigonometricas: 
-Funciones Seno y Coseno
-'''
 # Vamos a mostrar ambas funciones en un solo grafico uwu
 '''
 Agregamos primero los pares para la funcion seno 'x' y 
