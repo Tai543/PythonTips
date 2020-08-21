@@ -13,7 +13,7 @@ import numpy as np
 '''
 En la varible 'x' vamos a definir un vector con valores 
 que van del 0 a 4π y se incrementan en 0.1 utilizando la
-funcion 'range(inicio,fin,incremento)'
+funcion 'arange(inicio,fin,incremento)'
 '''
 x = np.arange(0,4*np.pi,0.1)
 '''

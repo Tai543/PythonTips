@@ -21,7 +21,7 @@ import numpy as np
 # para la grafica
 '''
 En la varible 'x' usando la funcion 
-'range(inicio,fin,incremento)' de numpy 
+'arange(inicio,fin,incremento)' de numpy 
 vamos a definir un vector con valores que van 
 del 0 a 4π y se incrementan en 0.1
 '''
