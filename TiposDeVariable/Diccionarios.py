@@ -4,7 +4,7 @@ Tipos de Variables: Diccionarios
 Los diccionarios son estructuras de datos y un tipo de 
 dato que nos permite almacenar cualquier tipo de dato
 '''
-# Para definir los elementos de una lista utilizamos 
+# Para definir los elementos de un diccionario utilizamos 
 # el formato 'llave:valor' donde cada 'llave' es unica
 instagram = {'nombre':'Tai543','edad':'27'
             ,'progreso':0.5
