@@ -16,8 +16,8 @@ conjunto_a={'P','O','L','Y','G','O','N','S'}
 # En 'conjunto_b' definimos nuestro segundo conjunto 
 # de otra forma 👩🏻‍🏫👩🏻‍💻 usando 'set()' y una lista
 conjunto_b=set(['P','Y','T','H','O','N'])
-# En la funcion 'venn2' listamos los conjuntos para 
-# graficar su interseccion 
+# Con la funcion 'venn2' listamos los conjuntos 
+# para graficar su interseccion 
 venn2([conjunto_a, conjunto_b])
 # Finalmente mostramos el grafico con 'plt.show()'
 plt.show()
